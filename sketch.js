@@ -6,13 +6,13 @@ var officer, officer_img, handcufffs, handcuffs_img;
 
 function preload(){
   
-  thief1_img = loadImage("assets/thief1.png")
-  thief2_img = loadImage("assets/thief2.png")
-  coin_img = loadImage("assets/coin.png")
-  diamond_img = loadImage("assets/diamond.png")
-  officer_img = loadImage("assets/officer.png")
-  handcuffs_img = loadImage("assets/handcuffs.png")
-  bgImg = loadImage("assets/bg.jpg")
+  thief1_img = loadImage("thief1.png")
+  thief2_img = loadImage("thief2.png")
+  coin_img = loadImage("coin.png")
+  diamond_img = loadImage("diamond.png")
+  officer_img = loadImage("officer.png")
+  handcuffs_img = loadImage("handcuffs.png")
+  bgImg = loadImage("bg.jpg")
 
 }
 
